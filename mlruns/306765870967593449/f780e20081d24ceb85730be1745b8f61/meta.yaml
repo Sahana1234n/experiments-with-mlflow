@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/306765870967593449/f780e20081d24ceb85730be1745b8f61/artifacts
+end_time: 1758798459380
+entry_point_name: ''
+experiment_id: '306765870967593449'
+lifecycle_stage: active
+run_id: f780e20081d24ceb85730be1745b8f61
+run_name: bedecked-vole-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758798441266
+status: 3
+tags: []
+user_id: sahan

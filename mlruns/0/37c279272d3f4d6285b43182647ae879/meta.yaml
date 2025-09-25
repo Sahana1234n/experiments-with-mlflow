@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/37c279272d3f4d6285b43182647ae879/artifacts
+end_time: 1758797337998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37c279272d3f4d6285b43182647ae879
+run_name: nervous-dolphin-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758797337057
+status: 3
+tags: []
+user_id: sahan

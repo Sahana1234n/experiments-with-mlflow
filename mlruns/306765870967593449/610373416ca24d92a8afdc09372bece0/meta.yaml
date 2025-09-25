@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/306765870967593449/610373416ca24d92a8afdc09372bece0/artifacts
+end_time: 1758797567874
+entry_point_name: ''
+experiment_id: '306765870967593449'
+lifecycle_stage: active
+run_id: 610373416ca24d92a8afdc09372bece0
+run_name: aged-rook-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758797567128
+status: 3
+tags: []
+user_id: sahan

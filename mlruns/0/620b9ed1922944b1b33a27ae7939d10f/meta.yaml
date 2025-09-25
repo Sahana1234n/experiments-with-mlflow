@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/620b9ed1922944b1b33a27ae7939d10f/artifacts
+end_time: 1758795324948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 620b9ed1922944b1b33a27ae7939d10f
+run_name: bedecked-moth-350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758795324776
+status: 3
+tags: []
+user_id: sahan

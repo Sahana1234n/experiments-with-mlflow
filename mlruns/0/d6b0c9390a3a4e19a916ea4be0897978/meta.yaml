@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d6b0c9390a3a4e19a916ea4be0897978/artifacts
+end_time: 1758795742331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6b0c9390a3a4e19a916ea4be0897978
+run_name: stately-grouse-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758795742096
+status: 3
+tags: []
+user_id: sahan

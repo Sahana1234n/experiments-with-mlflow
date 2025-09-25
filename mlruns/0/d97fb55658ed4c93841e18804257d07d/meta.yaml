@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d97fb55658ed4c93841e18804257d07d/artifacts
+end_time: 1758795475684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d97fb55658ed4c93841e18804257d07d
+run_name: bold-trout-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758795475567
+status: 3
+tags: []
+user_id: sahan

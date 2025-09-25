@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7d7789af2cf2467db7bf1ebf52bc892c/artifacts
+end_time: 1758797008891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d7789af2cf2467db7bf1ebf52bc892c
+run_name: efficient-shrew-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758797008017
+status: 3
+tags: []
+user_id: sahan
